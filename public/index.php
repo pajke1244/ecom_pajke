@@ -9,7 +9,7 @@
 
         <!-- categories here -->
         <?php include(TEMPLATE_FRONT . DS . "side_nav.php" ); ?>
-
+        <h2>BLA</h2>
 
         <div class="col-md-9">
 
