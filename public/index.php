@@ -9,10 +9,8 @@
 
         <!-- categories here -->
         <?php include(TEMPLATE_FRONT . DS . "side_nav.php" ); ?>
-        <h2>BLA</h2>
-
         <div class="col-md-9">
-          <h1>Proba GitHub-a!!!!!!</h1>
+          <h1>Proba 123</h1>
             <div class="row carousel-holder">
 
                 <div class="col-md-12">
