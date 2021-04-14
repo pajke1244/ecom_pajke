@@ -12,7 +12,7 @@
 
 
         <div class="col-md-9">
-
+          <h1>Proba GitHub-a!!!!!!</h1>
             <div class="row carousel-holder">
 
                 <div class="col-md-12">
@@ -25,7 +25,7 @@
 
             <div class="row">
                 <h1>
- 
+
                 </h1>
 
                 <?php get_products(); ?>
